@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is new
+=======
+this is nf changed
+>>>>>>> nf
