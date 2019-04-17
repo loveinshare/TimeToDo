@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this is new
-=======
-this is nf changed
->>>>>>> nf
+this is master
